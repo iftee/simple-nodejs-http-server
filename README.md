@@ -1,5 +1,7 @@
 ![](https://github.com/iftee/simple-nodejs-http-server/blob/master/cover.png)
 # Simple Node.js® HTTP Server
+![Built with Node](http://pixel-cookers.github.io/built-with-badges/node/node-long-flat.png) ![Code on GitHub](http://pixel-cookers.github.io/built-with-badges/github/github-long-flat.png)
+
 This is a simple node.js web server for serving static HTML files.
 
 ## How to use
